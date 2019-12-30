@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="nav_drawer_open">open</string>
+    <string name="nav_drawer_close">close</string>
+
+
+    <string name="home_text">Electricity is available to us with a “click”, but its evolution is long, brilliant, exceptional. That is why we have created…</string>
+    <string name="for_the_centar">The Exhibition Center Matka is a unique educational center in Macedonia dealing with energy. In it, visitors through modern interactive methods can learn more about electricity, its history, production, transmission and usage.
+        \n\n
+The educational contents are set in the historic building of the old hydroelectric power plant Matka, where guests have a unique opportunity to see an 80-year-old energy facility that can still be in operation.
+        \n\n
+EVN has that honor as part of its small production of electricity from renewable sources to own the hydroelectric power plant Matka. Matka has always been special. It is located in one of the most picturesque canyons in the Republic of Macedonia, visited by tourists from all over the world. Macedonia, as well as the rest of the world, has a growing need for educating young people in the so-called STEM area (Science, Technology, Engineering and Mathematics). The love for these sciences is developed in childhood, and in Macedonia there is not enough educational content that would encourage it.
+        \n\n
+The rich history of Matka, worth passing on to future generations, as well as the need for STEM education were the main reasons why EVN created the Exhibition Center Matka.</string>
+    <string name="history_text">In the thirties of the last century, an artificial lake was built at the exit of the canyon on Lake Treska, with a concrete dam for electricity production. Construction work on the dam began in 1935 and HPP began operations in 1938 with an installed capacity of 4.2 MW.</string>
+    <string name="history1_text">The construction was extensive and it was a collective venture, a capital project of its time, but credits for it’s construction can be attributed to Professor. Dr. Miladin Pekinar the author of the project, the designer and the man supervising the construction. When the dam was completed, Pekinar standing on its top shouted: “If you the dam goes, let the one who envisioned it go with it”.</string>
+    <string name="history2_text">During the Second World War, HPP Matka was one of the strategic objects around which battles were fought. It was the target of bombing in the military operations during the retreat of the fascist forces. Even an attempt was made to blow the dam up, but brave group of partisans heroically defended Matka. The dam of HPP Matka has rescued Skopje from floods several times, during the great flood in 1962 and 1979 when the dam held a huge amount of water and contributed to the prevention of major disaster.</string>
+    <string name="history3_text">The HPP Match today is part of the production of renewable energy of EVN Macedonia. In 2008 it has been reconstructed and a completely new hydropower plan has been built.  With the construction of the new powerhouse, located near the old, the old powerhouse ceased operation, after which in 2016 was transformed into an educational and exhibition center.</string>
+
+    <string name="exhibits_text">In the display of the exhibition center today you can see original old items, archive materials, films, photographs, interviews, real components of the electric and energy system as well as unique educational models designed for the center and for learning through interaction.
+
+Topics covered by the exhibited items are:
+        \n
+- history of electrification of Macedonia
+        \n
+- history of HPP Matka
+        \n
+- electricity and electrical current
+        \n
+- electric and energy system
+        \n
+- renewable energy: hydro power, solar power, wind
+        \n
+- energy efficiency
+        Visit the center and see the whole content of the center up close!</string>
+
+
+    <string name="video_description1">History of electrification in Macedonia</string>
+    <string name="video_description2">Energy efficiency</string>
+    <string name="video_description3">The path of electricity</string>
+    <string name="video_description4">How is electricity conducted?</string>
+    <string name="video_description5">Renewable sources of energy</string>
+    <string name="video_description6">What is electricity?</string>
+
+
+    <string name="title_news1">Tesla day</string>
+    <string name="title_news2">Energy efficiency</string>
+    <string name="title_news3">Announcement – Matka won the “Museum of the Year” award</string>
+    <string name="title_news4">Social Responsibility Award</string>
+    <string name="title_news5">Opening of the center</string>
+    <string name="title_news6">Event of the month</string>
+
+
+    <string name="text_news1">Tesla day</string>
+    <string name="text_news2">Energy efficiency</string>
+    <string name="text_news3">Skopje, 18.05.2018 – The Exhibition Center Matka is the winner of the “Museum of the Year” award presented by ICOM (International Council of Museums) – Macedonia. The award is given on the occasion of 18 May – the International Day of Museums for special achievements in its activity for 2017.
+
+EVN Macedonia opened the Exhibition Center Matka last year, and it has been visited by over 7,000 visitors and was presented at the Annual Conference of the European Museum Academy. In Macedonia, this is the first center dealing with technical sciences, it serves a modern museum approach and the content is presented in a fun and interactive way. The display is located in the building of the old hydroelectric power plant Matka, which is of great importance for the citizens of Skopje because it has enabled the growth and development of the city in the 20th century. The project was preceded by intensive research, and in the exhibition center today you can see original old items, archive materials, films, photographs, interviews and interactive models that were designed especially for this purpose and from which visitors can learn while testing their functions and possibilities.
+Matka is open every day except on Mondays from 10 a.m. to 3 p.m.
+ICOM is the largest international organization of museum workers present in 136 countries with more than 35,000 members. The organization has consultative status in the Economic and Social Council of the United Nations. The Macedonian Committee was established in 1993 and since then sets professional standards that contribute to the creation of quality museum activity.</string>
+    <string name="text_news4">The Exhibition Center for electricity – Matka is the winner of the National Award for best socially responsible practices of the Macedonian companies for 2017, which is awarded by the Coordinative Body for Social Responsibility and the Ministry of Economy of the Republic of Macedonia.\n “Electricity is a real phenomenon and one of the most important inventions of humanity. Starting from there, an idea was born to create a place where visitors, and especially future generations, will be able to educate themselves and expand their knowledge. That is why, as a socially responsible company, we give the Exhibition Center Matka to all educational institutions in Macedonia free of charge, and we hope that the contents that we have here will be part of their educational program. Our goal is that the Exhibition Center Matka will be a place to encourage young people to dream of innovation and progress” – said Mr. Peter at the event.</string>
+    <string name="text_news5">On May 10, 2017, in the presence of representatives of the Macedonian educational institutions, the doors for the general public were officially opened by Mr. Stefan Peter, Chairman of the BOD of EVN Macedonia.</string>
+    <string name="text_news6">With great honor and joy we joined the world famous humanitarian initiative “Pay it forward”.
+On 28.04 – Saturday, in the City Park (Skopje) at the site “Shkolka” with all who want to do good and expect nothing in return</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="working_hours">WORKING HOURS</string>
+    <string name="april_october">April – October</string>
+    <string name="_10_00_a_m_03_00_p_m">10:00 a.m. – 03:00 p.m.</string>
+    <string name="every_day_except_on_mondays">Every day except on Mondays</string>
+    <string name="contact">CONTACT</string>
+    <string name="saraj_matka">Canyon Matka, Saraj Municipality, Skopje</string>
+    <string name="tel_072_935_105">Tel.: 072/935-105</string>
+    <string name="development_of_the_center">Development of the center</string>
+    <string name="development_text">The development of the Exhibition Center Matka was preceded by extensive research, international know-how and work of experts from different fields to ensure the best educational and fun experience of the visitors.</string>
+    <string name="exhibits">Exhibits</string>
+    <string name="light_bulbs">Light bulbs</string>
+    <string name="light_bulbs_text">The light bulb is an electric device that we use daily. Like other devices, some consume more and some less energy. Do you know which bulb consumes the most? Try to find the answer yourselves.</string>
+    <string name="display_of_the_electro">Display of the electro distribution system</string>
+    <string name="discover_the_path">Discover the path of electricity from its production to its final destination in our homes, factories, hospitals, schools…</string>
+    <string name="windmill">Windmill</string>
+    <string name="wind_text">Wind is one of the renewable source of energy. Learn how with the help of windmills, the force of the wind can be set to produce electricity.</string>
+    <string name="van_de_graaff">Van De Graaff</string>
+    <string name="degraf_text">How does electricity affect near-by objects? With the Van de Graaff regenerator we will help you find out without the danger of “electrocution”</string>
+    <string name="plasma_ball">Plasma ball</string>
+    <string name="plazma_text">Magic light beams through a glass ball touching your hand, and you don’t know why? Visit us and learn about the effects the plasma ball has on the human body.</string>
+    <string name="for_the_centar_fHome">For The Centar</string>
+    <string name="Welcome_titile">Welcome to the Exhibition Center Matka</string>
+    <string name="welcome">Welcome</string>
+    <string name="exibition_centar_matka">EXIBITION CENTAR MATKA</string>
+    <string name="learn_more"><![CDATA[learn more >>]]></string>
+    <string name="history">History</string>
+    <string name="_header_title">EXIBITION CENTAR MATKA</string>
+    <string name="home_drawer">HOME</string>
+    <string name="communicate_drawer">Communicate</string>
+    <string name="visit_us_drawer">VISIT US</string>
+    <string name="contact_drawer">CONTACT</string>
+    <string name="communicate_drawer1">Communicate</string>
+    <string name="history_drawer">HISTORY</string>
+    <string name="exhibits_drawer">EXHIBITS</string>
+    <string name="video_drawer">VIDEO</string>
+    <string name="development_drawer">DEVELOPMENT</string>
+    <string name="for_tab">FOR THE CENTAR</string>
+    <string name="history_tab">HISTORY</string>
+    <string name="exib_tab">EXHIBITS</string>
+    <string name="vid_tab">VIDEOS</string>
+    <string name="matka_EC">Matka EC</string>
+    <string name="development_toolbar_titile">Development</string>
+    <string name="map_">Google Map</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="settings_main">Settings</string>
+
+
+</resources>

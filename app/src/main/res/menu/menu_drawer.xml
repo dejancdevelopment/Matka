@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/home_drawer" />
+
+    <item android:title="@string/communicate_drawer">
+
+
+        <item
+            android:id="@+id/nav_history"
+            android:title="@string/history_drawer" />
+
+
+        <item
+            android:id="@+id/nav_exhibits"
+            android:title="@string/exhibits_drawer" />
+
+
+        <item
+            android:id="@+id/nav_videos"
+            android:title="@string/video_drawer" />
+
+        <item
+            android:id="@+id/nav_development"
+            android:title="@string/development_drawer" />
+
+
+    </item>
+
+    <item android:title="@string/communicate_drawer">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_visit_us"
+                android:title="@string/visit_us_drawer" />
+
+
+            <item
+                android:id="@+id/nav_contact"
+                android:title="@string/contact_drawer" />
+
+
+        </menu>
+    </item>
+
+</menu>

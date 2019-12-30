@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#666666</item>
+        <item name="colorPrimaryDark"> #333333</item>
+        <item name="colorAccent">@android:color/holo_orange_dark</item>
+        <item name="actionBarItemBackground">@color/colorToolbar</item>
+    </style>
+
+    <style name="RobotoTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+
+    <style name="SettingsFragmentStyle">
+
+        <item name="android:textColorSecondary">#CCC</item>
+        <item name="android:textColor">#CCC</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:background">@android:color/transparent</item>
+        ...
+    </style>
+
+
+</resources>

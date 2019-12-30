@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="end|top"
+    android:layout_margin="8dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginEnd="8dp"
+        android:gravity="end"
+        android:src="@drawable/united_kingdom"
+        android:textColor="@color/colorLanguage"
+        android:textStyle="italic" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginEnd="4dp"
+        android:src="@drawable/republic_of_macedonia"
+        android:gravity="end"
+        android:textColor="@color/colorLanguage"
+        android:textStyle="italic" />
+
+</LinearLayout>
+

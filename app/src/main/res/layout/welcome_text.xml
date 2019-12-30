@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/welcome_text"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        app:itemTextAppearance="@style/RobotoTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="42dp"
+        android:text="@string/welcome"
+        android:textSize="16dp"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textStyle="bold|italic" />
+
+
+    <TextView
+        app:itemTextAppearance="@style/RobotoTextViewStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="42dp"
+        android:text="@string/exibition_centar_matka"
+        android:textColor="@android:color/white"
+        android:textSize="19sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        app:itemTextAppearance="@style/RobotoTextViewStyle"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="134dp"
+        android:layout_marginTop="4dp"
+        android:textSize="16dp"
+        android:text="@string/home_text"
+        android:textColor="@android:color/white"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/to_home_fragment"
+        app:itemTextAppearance="@style/RobotoTextViewStyle"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="134dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/learn_more"
+        android:textSize="16dp"
+        android:textColor="@android:color/holo_orange_dark"
+        android:textStyle="italic" />
+
+</LinearLayout>
+
